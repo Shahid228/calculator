@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+}
+.main-div{
+    position: absolute;
+    top:50%;
+    left: 50%;
+   transform: translate(-50%,-50%);
+   
+    
+}
+.main-div h1{
+    text-align: center;
+}
+.input-div{
+    margin:auto ;
+    border:2px solid #c7dcff;
+    width:273px;
+    height: 90px;
+}
+input{
+    margin-top: 30px;
+    float: right;
+    width:270px;
+    font-size: 25px;
+    text-align: right;
+    border: none;
+    outline:none;
+}
+
+    
+
+.b1{
+    width:70px;
+    height:50px;
+    font-size: 25px;
+    
+    background-color: #604AB7;
+    border: 1px solid white;
+    color:white;
+    outline: none;
+}
+.button-div1{
+    float:right;
+}
+.clear-div{
+    clear:both;
+}
+.b1-2{
+    width:70px;
+    height:50px;
+    font-size: 25px;
+    outline: none;
+    background-color: #ffbf00;
+    border: 1px solid white;
+    color:white;
+
+
+}
+
+button:hover{
+    background-color:orange;
+   
+}
+.b2{
+    width:70px;
+    height:50px;
+    font-size: 25px;
+    outline: none;
+    background-color: #1F2227;
+    border: 1px solid white;
+    color:white;
+}
+.button-div2{
+    float: right;
+}
+.b2-3{
+    width:70px;
+    height:50px;
+    font-size: 15px;
+    outline: none;
+    background-color: #1F2227;
+    border: 1px solid white;
+    color:white;
+}
+.button-div3{
+    float: right;
+}
+.b2-4{
+    width:70px;
+    height:50px;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 15px;
+    background-color: #1F2227;
+    border: 1px solid white;
+    color:white;
+    outline: none;
+}
+.button-div4{
+    float:right;
+}
+.button-div{
+   
+    width:300px;
+}
